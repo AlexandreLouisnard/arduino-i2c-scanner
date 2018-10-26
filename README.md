@@ -1,8 +1,8 @@
 # Arduino I2C scanner
 
 **Author: unknown**  
-**Arduino C Application**
-**IDE/structure: VSCode + PlatformIO"
+**Arduino C Application**  
+**IDE/structure: VSCode + PlatformIO**  
 
 ## DESCRIPTION
 
