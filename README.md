@@ -2,6 +2,7 @@
 
 **Author: unknown**  
 **Arduino C Application**
+**IDE/structure: VSCode + PlatformIO"
 
 ## DESCRIPTION
 
